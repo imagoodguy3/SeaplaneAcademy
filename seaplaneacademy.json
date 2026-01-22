@@ -104,11 +104,25 @@
             "name": "de Havilland Canada DHC2 Beaver",
             "liveries": [
             {
-                "name": "Seaplane Academy",
+                "name": "Seaplane Academy (grass design)",
                 "texture": [
                 "https://raw.githubusercontent.com/imagoodguy3/SeaplaneAcademy/refs/heads/main/DHC-2_Beaver.png"
             ],
             "credits": "aWindowsXPMan"
+        },
+        {
+                "name": "Seaplane Academy (beach design)",
+                "texture": [
+                "https://raw.githubusercontent.com/imagoodguy3/SeaplaneAcademy/refs/heads/main/DHC-2_Beaver(yellow).png"
+           ],
+           "credits": "aWindowsXPMan"
+        },
+        {
+            "name": "Seaplane Academy (water design)",
+            "texture": [
+            "https://raw.githubusercontent.com/imagoodguy3/SeaplaneAcademy/refs/heads/main/DHC-2_Beaver(blue).png"
+          ],
+          "credits": "aWindowsXPMan"
         }
     ],
             "labels": [
