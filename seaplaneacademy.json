@@ -125,7 +125,7 @@
           "credits": "aWindowsXPMan"
         },
         {
-            "name": "Seaplane Academy (Teaching Alaska how to fly)",
+            "name": "Seaplane Academy (Teaching Alaska how to<br>fly)",
             "texture": [ 
             "https://raw.githubusercontent.com/imagoodguy3/SeaplaneAcademy/refs/heads/main/DHC-2_Beaver(alaska).png"
            ],
